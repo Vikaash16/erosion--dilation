@@ -72,14 +72,15 @@ plt.axis("off")
 ## Output:
 
 ### Display the input Image
-<img width="400" height="403" alt="image" src="https://github.com/user-attachments/assets/e7b12fbb-27be-4895-90e4-0e614b2a0db8" />
-
-
-### Display the Eroded Image
-<img width="407" height="394" alt="image" src="https://github.com/user-attachments/assets/42db3ec8-2b3b-4dd3-9294-92f1aeaa47cc" />
+<img width="507" height="506" alt="image" src="https://github.com/user-attachments/assets/e7c3e4eb-aee0-464e-b552-235839933d35" />
 
 
 ### Display the Dilated Image
+<img width="709" height="544" alt="image" src="https://github.com/user-attachments/assets/99fee06e-64c2-4e49-aaaf-eabce98734ec" />
+
+
+
+### Display the Eroded Image
 <img width="384" height="383" alt="image" src="https://github.com/user-attachments/assets/fde58c97-5efd-4b37-9ee6-4b2a83499076" />
 
 
